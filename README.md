@@ -2,7 +2,7 @@
 
 ## 實作方法
 
-- 使用 e-paper 串接至 ESP32，語法使用MicroPython。
+- 使用 e-paper 串接至 [ESP32](https://www.waveshare.com/wiki/E-Paper_ESP32_Driver_Board#Local_Demo)，語法使用MicroPython。
 - 架設一個樹莓派作為MQTT Broke中間站。
 - 透過API取得當天租借的資料
 - 利用Python的PIL模組繪製借用的預約清單，並將繪製好的圖片透過MQTT傳送到ESP32後，再透過ESP32傳遞至e-paper。
