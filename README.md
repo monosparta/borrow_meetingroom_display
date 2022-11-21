@@ -11,7 +11,7 @@
 ## 系統需求
 
 - ESP32
-- Ｗaveshare e-paper
+- Ｗaveshare e-paper (會以7.5“為主)
 
 |  型號  |  分辨率  |  顯示顏色  |
 |  ----  | ---- | ---- |
